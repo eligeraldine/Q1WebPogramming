@@ -487,22 +487,6 @@ body{
   }
 
 /*--------------------TOURIST---------------*/
-#tourist {
-    text-align: center;
-    padding: 125px;
-    background-color: #ffffff;
-  }
-  
-  #tourist h2 {
-    font-size: 32px;
-    margin-bottom: 20px;
-  }
-  
-  #tourist p {
-    font-size: 18px;
-    margin-bottom: 30px;
-  }
-  
   .tourist-container {
     display: flex;
     justify-content: space-between;
